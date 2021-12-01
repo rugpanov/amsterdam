@@ -96,8 +96,8 @@ BSN - citizen service number, открывает перед вами множе�
 
 ### Социализируемся
 1. [Беговой клуб](https://www.facebook.com/groups/runningjunkies) - экспаты / местные - 40 / 60
-2. [Евенты на любой вкус](https://www.meetup.com/home/). Я был здесь, понравилось:
- * [Geeks-United](https://www.meetup.com/Geeks-United/)
- * [Amsterdam Social Meetup](https://www.meetup.com/meetup-group-uYcvTXRz/)
- * [IT Development Café](https://www.meetup.com/IT-Development-Cafe/)
+2. [Евенты на любой вкус](https://www.meetup.com/home/). Был, понравилось:
+* [Geeks-United](https://www.meetup.com/Geeks-United/)
+* [Amsterdam Social Meetup](https://www.meetup.com/meetup-group-uYcvTXRz/)
+* [IT Development Café](https://www.meetup.com/IT-Development-Cafe/)
 3. [Tinder](https://tinder.com) -  в т.ч. подходит для поиска друзей
