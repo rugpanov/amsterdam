@@ -100,4 +100,4 @@ BSN - citizen service number, открывает перед вами множе�
 * [Geeks-United](https://www.meetup.com/Geeks-United/)
 * [Amsterdam Social Meetup](https://www.meetup.com/meetup-group-uYcvTXRz/)
 * [IT Development Café](https://www.meetup.com/IT-Development-Cafe/)
-3. [Tinder](https://tinder.com) -  в т.ч. подходит для поиска друзей
+3. [Tinder](https://tinder.com) -  в т. ч. подходит для поиска друзей
