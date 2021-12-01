@@ -91,8 +91,9 @@ BSN - citizen service number, открывает перед вами множе�
 
 
 ## Мобильная связь. Контракт
+Договора на 2 года:
 
-| Name                   	| Data                       	| Price        	|
+| Name                   	| Linits                       	| Price        	|
 |------------------------	|----------------------------	|--------------	|
 | [Vodafone](https://www.vodafone.nl/abonnement/mobiel/sim-only?duration=12&together-extra-subscription-count=0&subscription=red65-red&ziggo=false)     	| 	|      	|
 | Vodafone Start M       	| 1.5 GB // 150 min // ꝏ sms 	| € 13,50      	|
