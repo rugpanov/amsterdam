@@ -102,3 +102,17 @@ BSN - citizen service number, открывает перед вами множе�
 * [Amsterdam Social Meetup](https://www.meetup.com/meetup-group-uYcvTXRz/)
 * [IT Development Café](https://www.meetup.com/IT-Development-Cafe/)
 3. [Tinder](https://tinder.com) -  в т. ч. подходит для поиска друзей
+
+### Поставщики газа / электричества
+Контракт год, газ: 850 m^3, электричество: 810 kWh / 510 kWh:
+
+| Поставщик    	| Цена 	|
+|--------------	|------	|
+| [Pure Energie](https://pure-energie.nl/) 	| €158 	|
+| [Eneco](https://www.eneco.nl/)        	| €162 	|
+| [Vandebron](https://vandebron.nl/)    	| €141 	|
+| [Vattenfall](https://vandebron.nl/)   	| €156 	|
+| [Innova](https://www.innovaenergie.nl/)       	| €159 	|
+| (Greenchoice)[https://www.greenchoice.nl/] 	| €172 	|
+
+Выбрал себе Vandebron, как самого выгодного. Весь интерфейс - на Голандском, но с гугл-переводчиком вполне можно жить. 
