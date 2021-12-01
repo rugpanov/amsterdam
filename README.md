@@ -41,7 +41,19 @@ BSN - citizen service number, открывает перед вами множе�
 До этого для получение QR кодов можно делать бесплатные [тесты](https://afspraak.testenvoortoegang.org/evenement/type). Результат готов через 30 минут, регистрация работает только местными номерами. Тест валиден одни сутки. 
 
 7. Начинаем искать квартиру.  
-Основные сервисы: [Funda](https://www.funda.nl/en/huur/) + [Pararius](https://www.pararius.com/english) + [RentSlam](https://rentslam.com/en/) (платная подписка, можно шарить с коллегами)
+**Основные сервисы:**
+ * [Funda](https://www.funda.nl/en/huur/)
+ * [Pararius](https://www.pararius.com/english)
+ * [RentSlam](https://rentslam.com/en/) - платная подписка, присылает все новые квартиры на почту, агрегирует сразу несколько бесплатных сервисов, можно покупать одну подписку на нескольких человек и настраивать редирект писем.
+
+<details>
+  <summary>Шаблон рабочего сообщения агентам</summary>
+  
+  Good morning. I am interested in the appartments *apartment address*. Shortly about myself: I am *age* years old, I’m employed as a *your role* at the company named JetBrains N. V. I have got my residence permit as a highly-skilled migrant and am employed with indefinite contracts. My gross annual salary amount is *your salary*. Please contact me for more information and arrange a viewing of this property.
+  
+With best regards, *your name*.
+</details>
+
 Когда квартира найдена переходим к пунку заселение в квартиру. 
 
 8. Оформляем residence permit (IND).  
