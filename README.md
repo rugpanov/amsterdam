@@ -111,6 +111,8 @@ BSN - citizen service number, открывает перед вами множе�
 3. [Tinder](https://tinder.com) -  в т. ч. подходит для поиска друзей
 
 ### Полезные Instagram аккаунты
+> Kudos to @ksenichkin for this chapter  
+
 **Блоги // гиды по городу**
 * [Lalamsterdam](https://instagram.com/lalamsterdam?utm_medium=copy_link) - экскурсии, арт-бранчи и вебинары про искусство.
 * [Art_city_amsterdam](https://instagram.com/art_city_amsterdam?utm_medium=copy_link) - гид в Амстердаме. Есть разные эскурсии для детей и взрослых.
