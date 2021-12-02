@@ -90,7 +90,7 @@ I’m employed as a *your role* at the company named JetBrains N. V. I have got 
 For any question you can contact me by mail: **email** or by phone: **phone** .
 P.S. I attached my contact and photo of me for your reference.
  
-```With best regards, *your name*.```
+With best regards, *your name*.```
 </details>
 
 3. Прикрепляем к письму ваш контракт и фотографию. Фотография может повысить ваши шансы. 
