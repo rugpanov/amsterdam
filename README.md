@@ -132,5 +132,3 @@ BSN - citizen service number, открывает перед вами множе�
 **Телеграм каналы про город**
 * Tg канал [Little Big NL](https://t.me/littlebignl) // [блог](littlebignl.ru) - много полезной информации про релокацию и не только.
 * Tg канал [Amsterdammer](https://t.me/amsterdammer) // [блог](https://amsterdammer.ru/) - интересные статьи про город и интервью с экспатами.
-
-> Special thanks to @ksenichkin for this chapter  
