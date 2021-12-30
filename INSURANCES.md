@@ -8,8 +8,7 @@
 | Basis Budget    	| Мало клиник-партнеров. Остальные покрываются на 75%.  Нельзя оформить 7 из 9 дополнительных опций.                                              	|  €123.45 	|
 | Basis Zeker     	| Полный список клиник партнеров.  Не партнеры покрываются на 75%.                                                                                	| € 131,45 	|
 | Basis Exclusief 	| Полный список клиник партнеров. Не партнеры покрываются на 100%.                                                                                	|  143,95  	|
-| [Menzis](https://www.menzis.nl
-)          	| Оценка на de Independer - 8.0. Компания среднего размера.                                                                                       	|          	|
+| [Menzis](https://www.menzis.nl) | Оценка на de Independer - 8.0. Компания среднего размера.                                                                                       	|          	|
 | Basis Voordelig 	| Покрытие от 65% до 100%.                                                                                                                        	| € 117,00 	|
 
 Мой выбор - [Zilveren Kruis. Basis Zeker](https://www.zilverenkruis.nl/consumenten/zorgverzekering/basisverzekering/basis-zeker). Цена - как везде. Крупная компания, адекватный сайт, информация частично на английском.   
