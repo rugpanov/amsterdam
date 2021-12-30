@@ -2,7 +2,7 @@
 
 Стоимость контракта на 2 года:
 
-| Name                   	| Linits                       	| Price        	|
+| Name                   	| Limits                       	| Price        	|
 |------------------------	|----------------------------	|--------------	|
 | [Vodafone](https://www.vodafone.nl/abonnement/mobiel/sim-only?duration=12&together-extra-subscription-count=0&subscription=red65-red&ziggo=false)     	| 	|      	|
 | Vodafone Start M       	| 1.5 GB // 150 min // ꝏ sms 	| € 13,50      	|
