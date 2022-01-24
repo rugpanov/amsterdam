@@ -40,4 +40,5 @@
  * по пятницам с 11.00 до 12.30 (в окно 8)
  * в другие дни - не получится.  
 
-Thanks to [Mitya](https://t.me/mityagizatov) for inspiration. 
+----
+**Special thanks** to [Mitya](https://t.me/mityas_life) for inspiration and materials. 
