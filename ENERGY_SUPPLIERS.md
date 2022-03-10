@@ -21,4 +21,4 @@ _Данные на `02.12.21`_
 > Выбрал себе Vandebron, как самого выгодного. Весь интерфейс - на Голандском, с гугл-переводчиком можно жить. 
 
 
-> Больше поставщиков на [independer](https://www.independer.nl/).
+> Больше поставщиков на [independer](https://www.independer.nl/) и [gaslicht](https://www.gaslicht.com/).
