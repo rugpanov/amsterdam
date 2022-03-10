@@ -12,4 +12,6 @@
 [Zilveren Kruis](https://www.zilverenkruis.nl/consumenten/zorgverzekering). Оценка на de Independer - 8.0. К планам Zeker и Exclusief можно добавить физиотерапию и стоматологию за дополнительную плату. Крупная компания.  
 [Menzis](https://www.menzis.nl). Оценка на de Independer - 7.8. Компания среднего размера. 
 
-Мой выбор - [Zilveren Kruis. Basis Zeker](https://www.zilverenkruis.nl/consumenten/zorgverzekering/basisverzekering/basis-zeker). Цена - как везде. Крупная компания, адекватный сайт, информация частично на английском.   
+> Мой выбор - [Zilveren Kruis. Basis Zeker](https://www.zilverenkruis.nl/consumenten/zorgverzekering/basisverzekering/basis-zeker). Цена - как везде. Крупная компания, адекватный сайт, информация частично на английском.   
+
+> Больше страховых компаний на [independer](https://www.independer.nl/zorgverzekering/intro.aspx)
