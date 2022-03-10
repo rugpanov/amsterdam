@@ -9,13 +9,14 @@
 
 | Поставщик    	| Цена 	|
 |--------------	|------	|
-| [Pure Energie](https://pure-energie.nl/) 	| €158 	|
-| [Eneco](https://www.eneco.nl/)        	| €162 	|
 | [Vandebron](https://vandebron.nl/)    	| €141 	|
 | [Vattenfall](https://vandebron.nl/)   	| €156 	|
+| [Pure Energie](https://pure-energie.nl/) 	| €158 	|
 | [Innova](https://www.innovaenergie.nl/)       	| €159 	|
+| [Eneco](https://www.eneco.nl/)        	| €162 	|
 | [Greenchoice](https://www.greenchoice.nl/) 	| €172 	|
 
 _Данные на `02.12.21`_
 
 > Выбрал себе Vandebron, как самого выгодного. Весь интерфейс - на Голандском, с гугл-переводчиком можно жить. 
+> Больше поставщиков на [independer](https://www.independer.nl/).
