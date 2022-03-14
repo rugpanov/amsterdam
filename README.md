@@ -100,7 +100,7 @@ BSN - citizen service number, открывает перед вами множе�
 `Good afternoon. Thank you for the apartment's demonstration. I would like to apply for this apartment. There are some details for the landlord:`
  
 `My name is **your name**, I am *years* years old, and I'm going to live in your apartment *(on my own // with my partner // ...)* and with *(no pets // two dogs // ...)*. I don't smoke and drink alcohol only for big celebrations - your apartment will always be fine and clean.`
-`I’m employed as a *your role* at the company named JetBrains N. V. I have got my residence permit as a highly-skilled migrant and am employed with indefinite contracts. My gross annual salary amount is *your salary* so you should not worry about payments on time. Hopefully I'll have the opportunity to live in this beautiful place. Thank you and have a nice day.`
+`I’m employed as a *your role* at the company named JetBrains N. V. I have got my residence permit as a highly-skilled migrant and am employed with **(indefinite contracts / 2 years contact)**. My gross annual salary amount is *your salary* so you should not worry about payments on time. Hopefully I'll have the opportunity to live in this beautiful place. Thank you and have a nice day.`
  
 `For any question you can contact me by mail: **email** or by phone: **phone** .`
 `P.S. I attached my contact and photo of me for your reference.`
